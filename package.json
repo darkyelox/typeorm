@@ -118,9 +118,6 @@
     "package": "gulp package",
     "lint": "tslint -p ."
   },
-  "bin": {
-    "typeorm": "./cli.js"
-  },
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/typeorm",
